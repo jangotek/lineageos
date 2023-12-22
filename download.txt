@@ -1,0 +1,2 @@
+https://github.com/jangotek/lineageos/releases/download/lineageos/proprietary_vendor_xiaomi-lineage-18.1-ginkgo.zip
+https://github.com/jangotek/lineageos/releases/download/lineageos/proprietary_vendor_xiaomi-lineage-18.1-sm6125-common.zip
